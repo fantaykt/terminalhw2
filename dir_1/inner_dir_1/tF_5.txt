@@ -1,0 +1,13 @@
+   odin
+   dva
+   tri
+   chetire
+   pyat
+   shest
+   sem
+   vosem
+   devyat
+   desyat
+   odinatsat
+   dvinatsat
+   trinadsat
